@@ -41,13 +41,25 @@ In the article the website usage of reactjs in France is a huge majority.
 > - react extend to mobile development with react-native
 > - documentation is very good and responses are huge on stackoverflow
  
+
 ## Back End
+
+Usage of [node.js](https://nodejs.org/en) has been growing for backend development.  
+Nodejs is a backend using v8 javascript engine.  
+Developement is in the same language as the one used for frontend reactjs.  
+Typescript can also be used when you need strong typing language.
+
+### Nodejs Frameworks
 
 The react.js website [react.dev](https://react.dev/) recommends to use a backend framework and they gives hint to [nextjs](https://nextjs.org/) or [remix](https://remix.run/)
 
-### Frameworks
+Search query: [top nodejs framework 2023](https://www.google.com/search?q=top+nodejs+framwork+2023)
+
+A search for differents frameworks
 
 Search query: [next.js vs remix vs](https://www.google.com/search?q=next.js+vs+remix+vs)
 
-[This blog article of remix.run](https://remix.run/blog/remix-vs-next) compares nextjs vs remix
-
+- remix
+While remix seems to be interesting, it is still a new framework.  
+It seems to be sufficiently interesting to be mentionned as the second framework of choice in the react.js website [react.dev](https://react.dev/).  
+[This blog article of remix.run](https://remix.run/blog/remix-vs-next) compares nextjs vs remix  
