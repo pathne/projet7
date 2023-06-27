@@ -10,6 +10,7 @@ It uses the following development related websites:
 
 - [dev.to](https://dev.to)
 - [stack overflow](https://stackoverflow.com/)
+- [stack overflow trends](https://insights.stackoverflow.com/trends)
 
 Every month this document is read and the search query links are clicked.  
 If something new appear, the relevant articles are read and this document updated.
