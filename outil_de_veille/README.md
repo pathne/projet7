@@ -1,12 +1,18 @@
 
 # Outil de Veille
 
+Last update: 27/06/2023
+
 ## Source of information and method
 
 This document use google search to obtain most relevant pages for a specific subject.  
 It uses the following development related websites:
+
 - [dev.to](https://dev.to)
 - [stack overflow](https://stackoverflow.com/)
+
+Every month this document is read and the search query links are clicked.  
+If something new appear, the relevant articles are read and this document updated.
 
 ## Front End
 
