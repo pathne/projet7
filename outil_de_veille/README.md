@@ -59,7 +59,7 @@ Search query: [next.js vs remix vs](https://www.google.com/search?q=next.js+vs+r
 
 The react.js website [react.dev](https://react.dev/) recommends to use a backend framework and they gives hint to [nextjs](https://nextjs.org/) or [remix](https://remix.run/)
 
-- remix
+- remix  
 While remix seems to be interesting, it is still a new framework.  
 It seems to be sufficiently interesting to be mentionned as the second framework of choice in the react.js website [react.dev](https://react.dev/).  
 [This blog article of remix.run](https://remix.run/blog/remix-vs-next) compares nextjs vs remix  
