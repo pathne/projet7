@@ -51,13 +51,13 @@ Typescript can also be used when you need strong typing language.
 
 ### Nodejs Frameworks
 
-The react.js website [react.dev](https://react.dev/) recommends to use a backend framework and they gives hint to [nextjs](https://nextjs.org/) or [remix](https://remix.run/)
+
 
 Search query: [top nodejs framework 2023](https://www.google.com/search?q=top+nodejs+framwork+2023)
 
-A search for differents frameworks
-
 Search query: [next.js vs remix vs](https://www.google.com/search?q=next.js+vs+remix+vs)
+
+The react.js website [react.dev](https://react.dev/) recommends to use a backend framework and they gives hint to [nextjs](https://nextjs.org/) or [remix](https://remix.run/)
 
 - remix
 While remix seems to be interesting, it is still a new framework.  
