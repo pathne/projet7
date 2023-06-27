@@ -3,8 +3,8 @@
 
 ## Source of information and method
 
-This document use google search to obtain most relevant pages for a specific subject
-It uses the following development related websites
+This document use google search to obtain most relevant pages for a specific subject.  
+It uses the following development related websites:
 - [dev.to](https://dev.to)
 - [stack overflow](https://stackoverflow.com/)
 
