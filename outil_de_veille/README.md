@@ -43,6 +43,8 @@ In the article the website usage of reactjs in France is a huge majority.
  
 ## Back End
 
+The react.js website [react.dev](https://react.dev/) recommends to use a backend framework and they gives hint to [nextjs](https://nextjs.org/) or [remix](https://remix.run/)
+
 ### Frameworks
 
 Search query: [next.js vs remix vs](https://www.google.com/search?q=next.js+vs+remix+vs)
