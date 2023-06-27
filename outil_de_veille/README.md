@@ -40,3 +40,12 @@ In the article the website usage of reactjs in France is a huge majority.
 > - The number of libraries for this framework is very huge
 > - react extend to mobile development with react-native
 > - documentation is very good and responses are huge on stackoverflow
+ 
+## Back End
+
+### Frameworks
+
+Search query: [next.js vs remix vs](https://www.google.com/search?q=next.js+vs+remix+vs)
+
+[This blog article of remix.run](https://remix.run/blog/remix-vs-next) compares nextjs vs remix
+
