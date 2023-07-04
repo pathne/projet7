@@ -1,6 +1,55 @@
 
 # Outil de Veille
 
+Dernière mise à jour: 27/06/2023
+
+## Les sources d'informations
+
+
+## Framework front-end
+
+Les frameworks front-end les plus utilisés sont
+- react.js
+- angular
+- vue.js
+
+Les sources d'informations sont:
+
+- [react.dev](https://react.dev/) site officiel du framework react.js
+
+- [angular.io](https://angular.io/) site officiel du framework angular
+
+- [vuejs.org](https://vuejs.org/) site officiel du framework vue.js
+  
+- [stackoverflow.com](https://stackoverflow.com/)  
+  Le site stackoverflow est le site de référence de Q&A utilisé par des millions de dévelopeurs au niveau mondial et contient de nombreuses questions réponse techniques.
+   
+- [insights.stackoverflow.com/trends](https://insights.stackoverflow.com/trends)
+  Le site stackoverflow permet de comparer différentes technologie sur un graph pour visualiser l'évolution de leurs importance relative.
+
+- [2022.stateofjs.com](https://2022.stateofjs.com/en-US/)  
+  Le site stateofjs donne toutes les informations d'usage de satisfaction et de rétention des framework javascript graçe aux sondages réalisée auprès de nombreux dévelopeurs.
+
+
+La méthodologie pour choisir quel framework est basée sur les critères suivants:
+- popularité du framework
+- rétention du framework après usage  
+
+Ces 2 elements sont des bonnes mesures
+- de la quantité de dévelopeur qui connaissent le framework
+- de la facilité d'utilisation du framework et de ses librairies.
+
+Ces critères peuvent êtres trouvé dans les 2 liens suivants:
+- le graph de comparaison [stackoverflow trend](https://insights.stackoverflow.com/trends?tags=reactjs%2Cvue.js%2Cangular) qui compare ces 3 frameworks montre que react.js est le framework le mieux reconnu.
+
+- les différents graph sur [2022.stateofjs.com](https://2022.stateofjs.com/en-US/libraries/front-end-frameworks/) montrent que parmis ces 3 framework react.js recueille le plus de satisfaction et de rétention.
+
+# conclusion
+
+le framework react.js sera retenu pour le développement du site qwenta  
+supporté par facebook, il possède un vaste ecosystème de librairies qui répondent à tous les besoins front-end
+
+
 Last update: 27/06/2023
 
 ## Source of information and method
