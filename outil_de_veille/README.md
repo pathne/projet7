@@ -24,7 +24,7 @@ Les sources d'informations sont:
 - [stackoverflow.com](https://stackoverflow.com/)  
   Le site stackoverflow est le site de référence de Q&A utilisé par des millions de dévelopeurs au niveau mondial et contient de nombreuses questions réponse techniques.
    
-- [insights.stackoverflow.com/trends](https://insights.stackoverflow.com/trends)
+- [insights.stackoverflow.com/trends](https://insights.stackoverflow.com/trends)  
   Le site stackoverflow permet de comparer différentes technologie sur un graph pour visualiser l'évolution de leurs importance relative.
 
 - [2022.stateofjs.com](https://2022.stateofjs.com/en-US/)  
