@@ -44,7 +44,7 @@ Ces critères peuvent êtres trouvé dans les 2 liens suivants:
 
 - les différents graph sur [2022.stateofjs.com](https://2022.stateofjs.com/en-US/libraries/front-end-frameworks/) montrent que parmis ces 3 framework react.js recueille le plus de satisfaction et de rétention.
 
-# conclusion
+### conclusion
 
 le framework react.js sera retenu pour le développement du site qwenta  
 supporté par facebook, il possède un vaste ecosystème de librairies qui répondent à tous les besoins front-end
