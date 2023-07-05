@@ -59,3 +59,17 @@ Après avoir effectué une analyse approfondie des principales sources fiables e
 5. **Flexibilité :** Avec React.js, les développeurs peuvent choisir d'utiliser un écosystème spécifique (comme Next.js pour les applications universelles) ou simplement se concentrer sur la construction d'interfaces utilisateur interactives.
 
 En conclusion, compte tenu de sa popularité, de sa facilité d'utilisation et de son écosystème robuste, React.js est le choix privilégié pour le développement Front-End en 2023. Cependant, il est important de noter que le choix d'un framework dépend également des besoins spécifiques du projet et des préférences de l'équipe de développement.
+
+## 4) Suivi de l'évolution et des bonnes pratiques avec React.js
+
+Pour rester informé de l'évolution de React.js et des bonnes pratiques de développement associées, nous recommandons de suivre les sites suivants :
+
+1. **Site :** [React Blog](https://reactjs.org/blog)
+   - **Description :** Le blog officiel de React.js fournit des mises à jour régulières sur les nouvelles fonctionnalités, les améliorations et les annonces importantes de la communauté React.
+
+2. **Site :** [Reactiflux Discord](https://www.reactiflux.com)
+   - **Description :** Rejoignez la communauté Reactiflux Discord pour discuter avec d'autres développeurs React, poser des questions, partager des connaissances et rester informé des dernières tendances et développements dans l'écosystème React.
+
+3. **Site :** [Awesome React](https://github.com/enaqx/awesome-react)
+   - **Description :** Cette liste curatée sur GitHub regroupe les ressources et les outils les plus utiles pour le développement avec React.js. Vous y trouverez des bibliothèques, des composants, des tutoriels, des exemples de projets et bien plus encore.
+
