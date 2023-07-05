@@ -1,115 +1,212 @@
+# Veille technologique : Développement de sites web
 
-# Outil de Veille
+## 1) Frameworks Frontend
 
-Dernière mise à jour: 27/06/2023
+### a) React
 
-## Les sources d'informations
+#### Documentation officielle
+[https://reactjs.org/docs/](https://reactjs.org/docs/)
 
+#### React Blog
+[https://reactjs.org/blog/](https://reactjs.org/blog/)
 
-## Framework front-end
+#### Communauté React Dev sur Reddit
+[r/reactjs](https://www.reddit.com/r/reactjs/)
 
-Les frameworks front-end les plus utilisés sont
-- react.js
-- angular
-- vue.js
+#### Statistiques d'utilisation
+- State of JavaScript: [https://2020.stateofjs.com/en-US/technologies/front-end-frameworks/](https://2020.stateofjs.com/en-US/technologies/front-end-frameworks/)
+- BuiltWith: [https://trends.builtwith.com/javascript/framework](https://trends.builtwith.com/javascript/framework)
+- npm Trends: [https://www.npmtrends.com/react-vs-angular-vs-vue](https://www.npmtrends.com/react-vs-angular-vs-vue)
 
-Les sources d'informations sont:
+#### Pros:
+- DOM virtuel haute performance pour des mises à jour efficaces.
+- Communauté large et active avec un écosystème étendu.
+- Composants réutilisables et intégration facile avec d'autres bibliothèques.
 
-- [react.dev](https://react.dev/) site officiel du framework react.js
+#### Cons:
+- Courbe d'apprentissage abrupte pour les débutants.
+- Nécessite des bibliothèques supplémentaires pour des fonctionnalités telles que le routage et la gestion de l'état.
+- Mises à jour fréquentes et changements des meilleures pratiques peuvent poser des problèmes de version.
 
-- [angular.io](https://angular.io/) site officiel du framework angular
+### b) Angular
 
-- [vuejs.org](https://vuejs.org/) site officiel du framework vue.js
-  
-- [stackoverflow.com](https://stackoverflow.com/)  
-  Le site stackoverflow est le site de référence de Q&A utilisé par des millions de dévelopeurs au niveau mondial et contient de nombreuses questions réponse techniques.
-   
-- [insights.stackoverflow.com/trends](https://insights.stackoverflow.com/trends)  
-  Le site stackoverflow permet de comparer différentes technologie sur un graph pour visualiser l'évolution de leurs importance relative.
+#### Documentation officielle
+[https://angular.io/docs](https://angular.io/docs)
 
-- [2022.stateofjs.com](https://2022.stateofjs.com/en-US/)  
-  Le site stateofjs donne toutes les informations d'usage de satisfaction et de rétention des framework javascript graçe aux sondages réalisée auprès de nombreux dévelopeurs.
+#### Angular Blog
+[https://blog.angular.io/](https://blog.angular.io/)
 
+#### Angular sur Stack Overflow
+[https://stackoverflow.com/questions/tagged/angular](https://stackoverflow.com/questions/tagged/angular)
 
-La méthodologie pour choisir quel framework est basée sur les critères suivants:
-- popularité du framework
-- rétention du framework après usage  
+#### Statistiques d'utilisation
+- State of JavaScript: [https://2020.stateofjs.com/en-US/technologies/front-end-frameworks/](https://2020.stateofjs.com/en-US/technologies/front-end-frameworks/)
+- BuiltWith: [https://trends.builtwith.com/javascript/framework](https://trends.builtwith.com/javascript/framework)
+- npm Trends: [https://www.npmtrends.com/angular-vs-react-vs-vue](https://www.npmtrends.com/angular-vs-react-vs-vue)
 
-Ces 2 elements sont des bonnes mesures
-- de la quantité de dévelopeur qui connaissent le framework
-- de la facilité d'utilisation du framework et de ses librairies.
+#### Pros:
+- Framework complet avec des outils intégrés pour le routage, la gestion de l'état et les tests.
+- Support solide de TypeScript pour une meilleure évolutivité et maintenabilité.
+- Bien documenté et prêt pour les entreprises.
 
-Ces critères peuvent êtres trouvé dans les 2 liens suivants:
-- le graph de comparaison [stackoverflow trend](https://insights.stackoverflow.com/trends?tags=reactjs%2Cvue.js%2Cangular) qui compare ces 3 frameworks montre que react.js est le framework le mieux reconnu.
+#### Cons:
+- Complexité et poids plus importants par rapport à d'autres frameworks.
+- Courbe d'apprentissage plus raide en raison de fonctionnalités et de concepts étendus.
+- Flexibilité limitée en termes de structure de composants et d'architecture.
 
-- les différents graph sur [2022.stateofjs.com](https://2022.stateofjs.com/en-US/libraries/front-end-frameworks/) montrent que parmis ces 3 framework react.js recueille le plus de satisfaction et de rétention.
+### c) Vue.js
 
-### conclusion
+#### Documentation officielle
+[https://v3.vuejs.org/guide/introduction.html](https://v3.vuejs.org/guide/introduction.html)
 
-le framework react.js sera retenu pour le développement du site qwenta  
-supporté par facebook, il possède un vaste ecosystème de librairies qui répondent à tous les besoins front-end
+#### Vue.js Blog
+[https://v3.vuejs.org/news/](https://v3.vuejs.org/news/)
 
+#### Forum Vue.js
+[https://forum.vuejs.org/](https://forum.vuejs.org/)
 
-Last update: 27/06/2023
+#### Statistiques d'utilisation
+- State of JavaScript: [https://2020.stateofjs.com/en-US/technologies/front-end-frameworks/](https://2020.stateofjs.com/en-US/technologies/front-end-frameworks/)
+- BuiltWith: [https://trends.builtwith.com/javascript/framework](https://trends.builtwith.com/javascript/framework)
+- npm Trends: [https://www.npmtrends.com/vue-vs-angular-vs-react](https://www.npmtrends.com/vue-vs-angular-vs-react)
 
-## Source of information and method
+#### Pros:
+- Courbe d'apprentissage facile et adoption progressive.
+- Framework léger et performant.
+- Syntaxe flexible et intuitive avec une excellente documentation.
 
-This document use google search to obtain most relevant pages for a specific subject.  
-It uses the following development related websites:
+#### Cons:
+- Écosystème plus petit par rapport à React et Angular.
+- Peut ne pas convenir aux applications d'entreprise à grande échelle.
+- Moins d'opportunités d'emploi par rapport aux frameworks plus établis.
 
-- [dev.to](https://dev.to)
-- [stack overflow](https://stackoverflow.com/)
-- [stack overflow trends](https://insights.stackoverflow.com/trends)
+## 2) Bibliothèques CSS
 
-Every month this document is read and the search query links are clicked.  
-If something new appear, the relevant articles are read and this document updated.
+### a) Bootstrap
 
-## Front End
+#### Documentation officielle
+[https://getbootstrap.com/docs/](https://getbootstrap.com/docs/)
 
-### Javascript frameworks
+#### Bootstrap Blog
+[https://blog.getbootstrap.com/](https://blog.getbootstrap.com/)
 
-Search query: [react vs vue vs angular 2023](https://www.google.com/search?q=react+vs+vue+vs+angular+2023)
+#### Bootstrap sur GitHub
+[https://github.com/twbs/bootstrap](https://github.com/twbs/bootstrap)
 
-What is the most popular frontend framework in 2023 ?
+#### Statistiques d'utilisation
+- BuiltWith: [https://trends.builtwith.com/css/bootstrap](https://trends.builtwith.com/css/bootstrap)
+- npm Trends: [https://www.npmtrends.com/bootstrap-vs-bulma-vs-tailwindcss](https://www.npmtrends.com/bootstrap-vs-bulma-vs-tailwindcss)
 
-[This dev.to article](https://dev.to/umangnaik/which-framework-is-most-suitable-for-your-project-or-learning-in-2023-angular-vs-react-vs-vue-3ljd) gives a lot of usage statistics for the following framework
-- reactjs
-- angular
-- vue.js
+#### Pros:
+- Bibliothèque mature et largement adoptée avec une documentation étendue et un support communautaire.
+- Système de grille réactif et composants pré-construits pour un développement rapide.
+- Mises à jour régulières et maintenance assurée par l'équipe principale.
 
-![stack overflow trend for the 3 frameworks](https://res.cloudinary.com/practicaldev/image/fetch/s--wfsoV1KK--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5zkgo26es1b9mg70d5qm.PNG)
+#### Cons:
+- Le style Bootstrap reconnaissable peut conduire à des designs homogènes.
+- La personnalisation peut être difficile en raison de la taille importante du fichier CSS.
+- Surcharge des classes CSS inutilisées lors de l'utilisation de l'ensemble de la bibliothèque.
 
-In the article the website usage of reactjs in France is a huge majority.
+### c) Tailwind CSS
 
-> ### Conclusion
->
-> It's best to stick with the most used framework in france.
-> This offer the following advantages:
-> - It's easier to find developers for this specific framework
-> - The framework is well maintained and evolving
-> - The number of libraries for this framework is very huge
-> - react extend to mobile development with react-native
-> - documentation is very good and responses are huge on stackoverflow
- 
+#### Documentation officielle
+[https://tailwindcss.com/docs/](https://tailwindcss.com/docs/)
 
-## Back End
+#### Tailwind CSS Blog
+[https://blog.tailwindcss.com/](https://blog.tailwindcss.com/)
 
-Usage of [node.js](https://nodejs.org/en) has been growing for backend development.  
-Nodejs is a backend using v8 javascript engine.  
-Developement is in the same language as the one used for frontend reactjs.  
-Typescript can also be used when you need strong typing language.
+#### Communauté Discord Tailwind CSS
+[https://discord.com/invite/tailwindcss](https://discord.com/invite/tailwindcss)
 
-### Nodejs Frameworks
+#### Statistiques d'utilisation
+- BuiltWith: [https://trends.builtwith.com/css/tailwind-css](https://trends.builtwith.com/css/tailwind-css)
+- npm Trends: [https://www.npmtrends.com/tailwindcss-vs-bootstrap-vs-bulma](https://www.npmtrends.com/tailwindcss-vs-bootstrap-vs-bulma)
 
+#### Pros:
+- Approche hautement personnalisable et axée sur l'utilité pour un développement rapide de l'interface utilisateur.
+- Système de conception réactif avec une large gamme de classes utilitaires pré-construites.
+- Intégration transparente avec d'autres frameworks et bibliothèques.
 
+#### Cons:
+- Courbe d'apprentissage plus raide en raison de la méthodologie unique axée sur l'utilité.
+- Taille du fichier accrue par rapport à d'autres bibliothèques CSS.
+- Nécessitede la discipline pour maintenir des styles cohérents dans l'ensemble du projet.
 
-Search query: [top nodejs framework 2023](https://www.google.com/search?q=top+nodejs+framwork+2023)
+### b) Bulma
 
-Search query: [next.js vs remix vs](https://www.google.com/search?q=next.js+vs+remix+vs)
+#### Documentation officielle
+[https://bulma.io/documentation/](https://bulma.io/documentation/)
 
-The react.js website [react.dev](https://react.dev/) recommends to use a backend framework and they gives hint to [nextjs](https://nextjs.org/) or [remix](https://remix.run/)
+#### Bulma Blog
+[https://bulma.io/blog/](https://bulma.io/blog/)
 
-- remix  
-While remix seems to be interesting, it is still a new framework.  
-It seems to be sufficiently interesting to be mentionned as the second framework of choice in the react.js website [react.dev](https://react.dev/).  
-[This blog article of remix.run](https://remix.run/blog/remix-vs-next) compares nextjs vs remix  
+#### Bulma sur GitHub
+[https://github.com/jgthms/bulma](https://github.com/jgthms/bulma)
+
+#### Statistiques d'utilisation
+- BuiltWith: [https://trends.builtwith.com/css/bulma](https://trends.builtwith.com/css/bulma)
+- npm Trends: [https://www.npmtrends.com/bulma-vs-bootstrap-vs-tailwindcss](https://www.npmtrends.com/bulma-vs-bootstrap-vs-tailwindcss)
+
+#### Pros:
+- Framework CSS léger et moderne.
+- Hautement personnalisable avec une approche modulaire.
+- Conception mobile d'abord et système de grille réactif.
+
+#### Cons:
+- Communauté plus petite par rapport à Bootstrap, ce qui entraîne moins de ressources disponibles.
+- Nombre limité de composants pré-construits par rapport à d'autres bibliothèques.
+- Moins de compatibilité avec les navigateurs par rapport à des frameworks plus établis.
+
+## 3) Technologie de communication entre le frontend et le backend
+
+### a) API REST
+
+#### Documentation MDN Web
+[https://developer.mozilla.org/en-US/docs/Glossary/REST](https://developer.mozilla.org/en-US/docs/Glossary/REST)
+
+#### API University
+[https://api-university.com/](https://api-university.com/)
+
+#### Meilleures pratiques de conception d'API RESTful
+[https://restfulapi.net/](https://restfulapi.net/)
+
+#### Statistiques d'utilisation
+- Rapport State of the API : [https://stateoftheapi.com/](https://stateoftheapi.com/)
+- ProgrammableWeb : [https://www.programmableweb.com/](https://www.programmableweb.com/)
+- Rapport sur le marché des API RESTful : [https://www.marketsandmarkets.com/Market-Reports/rest-api-market-257342841.html](https://www.marketsandmarkets.com/Market-Reports/rest-api-market-257342841.html)
+
+#### Pros:
+- Simplicité et facilité de mise en œuvre.
+- Adoption généralisée et compatibilité avec divers langages de programmation et plateformes.
+- Nature sans état pour la scalabilité et la mise en cache facile.
+
+#### Cons:
+- Manque de flexibilité lors de la manipulation de structures de données complexes et de relations.
+- Sur-fetching ou sous-fetching de données en raison des points d'extrémité fixes.
+- Capacités limitées en temps réel sans mises en œuvre supplémentaires.
+
+### b) GraphQL
+
+#### Documentation officielle
+[https://graphql.org/learn/](https://graphql.org/learn/)
+
+#### How to GraphQL
+[https://www.howtographql.com/](https://www.howtographql.com/)
+
+#### Communauté GraphQL sur Reddit
+[r/graphql](https://www.reddit.com/r/graphql/)
+
+#### Statistiques d'utilisation
+- State of JavaScript: [https://2020.stateofjs.com/en-US/technologies/frontend-graphql-clients/](https://2020.stateofjs.com/en-US/technologies/frontend-graphql-clients/)
+- Référentiel GitHub GraphQL : [https://github.com/graphql- Apollo GraphQL : [https://www.apollographql.com/state-of-graphql/](https://www.apollographql.com/state-of-graphql/)
+
+#### Pros:
+- Récupération efficace des données avec un contrôle précis sur les données demandées.
+- Réduction du sur-fetching et du sous-fetching avec un seul point d'extrémité.
+- Introspection et typage fort pour une meilleure expérience de développement.
+
+#### Cons:
+- Complexité accrue, en particulier pour les projets plus petits.
+- Courbe d'apprentissage et surcharge supplémentaire pour l'implémentation côté serveur.
+- Manque d'outils et d'écosystème matures par rapport à REST.
+
