@@ -60,7 +60,7 @@ Après avoir effectué une analyse approfondie des principales sources fiables e
 
 En conclusion, compte tenu de sa popularité, de sa facilité d'utilisation et de son écosystème robuste, React.js est le choix privilégié pour le développement Front-End en 2023. Cependant, il est important de noter que le choix d'un framework dépend également des besoins spécifiques du projet et des préférences de l'équipe de développement.
 
-## 4) Suivi de l'évolution et des bonnes pratiques avec React.js
+## 4) Veille du framework react.js
 
 Pour rester informé de l'évolution de React.js et des bonnes pratiques de développement associées, nous recommandons de suivre les sites suivants :
 
