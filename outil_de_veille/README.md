@@ -69,14 +69,11 @@
 
 ### a) Bootstrap
 
-#### Documentation officielle
-[https://getbootstrap.com/docs/](https://getbootstrap.com/docs/)
+#### Documentation officielle [https://getbootstrap.com/docs/](https://getbootstrap.com/docs/)
 
-#### Bootstrap Blog
-[https://blog.getbootstrap.com/](https://blog.getbootstrap.com/)
+#### Bootstrap Blog [https://blog.getbootstrap.com/](https://blog.getbootstrap.com/)
 
-#### Bootstrap sur GitHub
-[https://github.com/twbs/bootstrap](https://github.com/twbs/bootstrap)
+#### Bootstrap sur GitHub [https://github.com/twbs/bootstrap](https://github.com/twbs/bootstrap)
 
 #### Statistiques d'utilisation
 - BuiltWith: [https://trends.builtwith.com/css/bootstrap](https://trends.builtwith.com/css/bootstrap)
@@ -94,14 +91,11 @@
 
 ### c) Tailwind CSS
 
-#### Documentation officielle
-[https://tailwindcss.com/docs/](https://tailwindcss.com/docs/)
+#### Documentation officielle [https://tailwindcss.com/docs/](https://tailwindcss.com/docs/)
 
-#### Tailwind CSS Blog
-[https://blog.tailwindcss.com/](https://blog.tailwindcss.com/)
+#### Tailwind CSS Blog [https://blog.tailwindcss.com/](https://blog.tailwindcss.com/)
 
-#### Communauté Discord Tailwind CSS
-[https://discord.com/invite/tailwindcss](https://discord.com/invite/tailwindcss)
+#### Communauté Discord Tailwind CSS [https://discord.com/invite/tailwindcss](https://discord.com/invite/tailwindcss)
 
 #### Statistiques d'utilisation
 - BuiltWith: [https://trends.builtwith.com/css/tailwind-css](https://trends.builtwith.com/css/tailwind-css)
@@ -119,14 +113,11 @@
 
 ### b) Bulma
 
-#### Documentation officielle
-[https://bulma.io/documentation/](https://bulma.io/documentation/)
+#### Documentation officielle [https://bulma.io/documentation/](https://bulma.io/documentation/)
 
-#### Bulma Blog
-[https://bulma.io/blog/](https://bulma.io/blog/)
+#### Bulma Blog [https://bulma.io/blog/](https://bulma.io/blog/)
 
-#### Bulma sur GitHub
-[https://github.com/jgthms/bulma](https://github.com/jgthms/bulma)
+#### Bulma sur GitHub [https://github.com/jgthms/bulma](https://github.com/jgthms/bulma)
 
 #### Statistiques d'utilisation
 - BuiltWith: [https://trends.builtwith.com/css/bulma](https://trends.builtwith.com/css/bulma)
@@ -146,14 +137,11 @@
 
 ### a) API REST
 
-#### Documentation MDN Web
-[https://developer.mozilla.org/en-US/docs/Glossary/REST](https://developer.mozilla.org/en-US/docs/Glossary/REST)
+#### Documentation MDN Web [https://developer.mozilla.org/en-US/docs/Glossary/REST](https://developer.mozilla.org/en-US/docs/Glossary/REST)
 
-#### API University
-[https://api-university.com/](https://api-university.com/)
+#### API University [https://api-university.com/](https://api-university.com/)
 
-#### Meilleures pratiques de conception d'API RESTful
-[https://restfulapi.net/](https://restfulapi.net/)
+#### Meilleures pratiques de conception d'API RESTful [https://restfulapi.net/](https://restfulapi.net/)
 
 #### Statistiques d'utilisation
 - Rapport State of the API : [https://stateoftheapi.com/](https://stateoftheapi.com/)
@@ -172,14 +160,11 @@
 
 ### b) GraphQL
 
-#### Documentation officielle
-[https://graphql.org/learn/](https://graphql.org/learn/)
+#### Documentation officielle [https://graphql.org/learn/](https://graphql.org/learn/)
 
-#### How to GraphQL
-[https://www.howtographql.com/](https://www.howtographql.com/)
+#### How to GraphQL [https://www.howtographql.com/](https://www.howtographql.com/)
 
-#### Communauté GraphQL sur Reddit
-[r/graphql](https://www.reddit.com/r/graphql/)
+#### Communauté GraphQL sur Reddit [r/graphql](https://www.reddit.com/r/graphql/)
 
 #### Statistiques d'utilisation
 - State of JavaScript: [https://2020.stateofjs.com/en-US/technologies/frontend-graphql-clients/](https://2020.stateofjs.com/en-US/technologies/frontend-graphql-clients/)
