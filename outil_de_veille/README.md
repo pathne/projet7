@@ -8,9 +8,9 @@
 - React Blog [https://reactjs.org/blog/](https://reactjs.org/blog/)
 - Communauté React Dev sur Reddit [r/reactjs](https://www.reddit.com/r/reactjs/)
 -  Statistiques d'utilisation
-  - State of JavaScript: [https://2020.stateofjs.com/en-US/technologies/front-end-frameworks/](https://2020.stateofjs.com/en-US/technologies/front-end-frameworks/)
-  - BuiltWith: [https://trends.builtwith.com/javascript/framework](https://trends.builtwith.com/javascript/framework)
-  - npm Trends: [https://www.npmtrends.com/react-vs-angular-vs-vue](https://www.npmtrends.com/react-vs-angular-vs-vue)
+   - State of JavaScript: [https://2020.stateofjs.com/en-US/technologies/front-end-frameworks/](https://2020.stateofjs.com/en-US/technologies/front-end-frameworks/)
+   - BuiltWith: [https://trends.builtwith.com/javascript/framework](https://trends.builtwith.com/javascript/framework)
+   - npm Trends: [https://www.npmtrends.com/react-vs-angular-vs-vue](https://www.npmtrends.com/react-vs-angular-vs-vue)
 
 #### Pros:
 - DOM virtuel haute performance pour des mises à jour efficaces.
