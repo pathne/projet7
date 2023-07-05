@@ -4,14 +4,9 @@
 
 ### a) React
 
-#### Documentation officielle
-[https://reactjs.org/docs/](https://reactjs.org/docs/)
-
-#### React Blog
-[https://reactjs.org/blog/](https://reactjs.org/blog/)
-
-#### Communauté React Dev sur Reddit
-[r/reactjs](https://www.reddit.com/r/reactjs/)
+#### Documentation officielle [https://reactjs.org/docs/](https://reactjs.org/docs/)
+#### React Blog [https://reactjs.org/blog/](https://reactjs.org/blog/)
+#### Communauté React Dev sur Reddit [r/reactjs](https://www.reddit.com/r/reactjs/)
 
 #### Statistiques d'utilisation
 - State of JavaScript: [https://2020.stateofjs.com/en-US/technologies/front-end-frameworks/](https://2020.stateofjs.com/en-US/technologies/front-end-frameworks/)
@@ -30,14 +25,9 @@
 
 ### b) Angular
 
-#### Documentation officielle
-[https://angular.io/docs](https://angular.io/docs)
-
-#### Angular Blog
-[https://blog.angular.io/](https://blog.angular.io/)
-
-#### Angular sur Stack Overflow
-[https://stackoverflow.com/questions/tagged/angular](https://stackoverflow.com/questions/tagged/angular)
+#### Documentation officielle [https://angular.io/docs](https://angular.io/docs)
+#### Angular Blog [https://blog.angular.io/](https://blog.angular.io/)
+#### Angular sur Stack Overflow [https://stackoverflow.com/questions/tagged/angular](https://stackoverflow.com/questions/tagged/angular)
 
 #### Statistiques d'utilisation
 - State of JavaScript: [https://2020.stateofjs.com/en-US/technologies/front-end-frameworks/](https://2020.stateofjs.com/en-US/technologies/front-end-frameworks/)
@@ -56,14 +46,9 @@
 
 ### c) Vue.js
 
-#### Documentation officielle
-[https://v3.vuejs.org/guide/introduction.html](https://v3.vuejs.org/guide/introduction.html)
-
-#### Vue.js Blog
-[https://v3.vuejs.org/news/](https://v3.vuejs.org/news/)
-
-#### Forum Vue.js
-[https://forum.vuejs.org/](https://forum.vuejs.org/)
+#### Documentation officielle [https://v3.vuejs.org/guide/introduction.html](https://v3.vuejs.org/guide/introduction.html)
+#### Vue.js Blog [https://v3.vuejs.org/news/](https://v3.vuejs.org/news/)
+#### Forum Vue.js [https://forum.vuejs.org/](https://forum.vuejs.org/)
 
 #### Statistiques d'utilisation
 - State of JavaScript: [https://2020.stateofjs.com/en-US/technologies/front-end-frameworks/](https://2020.stateofjs.com/en-US/technologies/front-end-frameworks/)
