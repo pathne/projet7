@@ -1,0 +1,20 @@
+les informations concernant la veille technologique sur le développement de sites web ont été organisées de manière structurée. Le document suit un plan qui comprend des sections pour chaque catégorie de technologie et des sous-sections pour les technologies spécifiques de chaque catégorie. Voici un aperçu de l'organisation :
+
+Frameworks Frontend :
+
+Cette section présente trois frameworks frontend populaires : React, Angular et Vue.js.
+Chaque framework est discuté individuellement avec sa propre sous-section.
+Dans chaque sous-section, on trouve des informations sur la documentation officielle, les blogs pertinents, les ressources de la communauté et les statistiques d'utilisation.
+Les avantages et les inconvénients sont répertoriés pour chaque framework.
+Bibliothèques CSS :
+
+Cette section se concentre sur trois bibliothèques CSS : Bootstrap, Bulma et Tailwind CSS.
+Chaque bibliothèque est présentée dans sa propre sous-section.
+Les sous-sections comprennent des liens vers la documentation officielle, les blogs, les ressources de la communauté et les statistiques d'utilisation.
+Les avantages et les inconvénients sont fournis pour chaque bibliothèque CSS.
+Technologies pour la communication entre le frontend et le backend :
+
+Cette section explore deux technologies pour la communication entre le frontend et le backend : les API REST et GraphQL.
+Chaque technologie est discutée dans sa propre sous-section.
+Les sous-sections comprennent des liens vers la documentation officielle, les ressources d'apprentissage pertinentes, les plateformes communautaires et les statistiques d'utilisation.
+Les avantages et les inconvénients sont détaillés pour chaque technologie.
