@@ -18,6 +18,14 @@ Dans le cadre de cette veille technologique, nous avons recherché les trois pri
    - **Article :** "Comparing the Top Front-End Frameworks in 2023" publié sur [Dev.to](https://dev.to/frontend2023/comparing-the-top-front-end-frameworks-in-2023)
    - **Conclusion :** D'après le comparatif, les trois principaux frameworks Front-End sont React.js, Vue.js et Angular.
 
+Après avoir analysé plusieurs sources réputées, nous avons retenu les trois principaux frameworks suivants :
+
+| Framework	| Site | Web |
+| --- | --- | --- |
+| React.js	| [reactjs.org](https://reactjs.org/) |
+| Vue.js	| [vuejs.org](https://vuejs.org/) |
+| Angular | [angular.io](https://angular.io/) |
+
 ## 2) Comparaison basée sur la popularité et la facilité d'utilisation
 
 Pour évaluer la popularité et la facilité d'utilisation des trois principaux frameworks Front-End, nous avons consulté plusieurs sites web proposant des graphiques de comparaison et des statistiques actualisées :
