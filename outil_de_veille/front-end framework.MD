@@ -21,7 +21,7 @@ Dans le cadre de cette veille technologique, nous avons recherché les trois pri
 Après avoir analysé ces sources réputées, nous avons retenu les trois principaux frameworks suivants :
 
 | Framework	| Site Web |
-| --- | --- | --- |
+| --- | --- |
 | React.js	| [reactjs.org](https://reactjs.org/) |
 | Vue.js	| [vuejs.org](https://vuejs.org/) |
 | Angular | [angular.io](https://angular.io/) |
